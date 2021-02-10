@@ -19,7 +19,7 @@
   
 ## Step4. Add FB APPs Product-Messenger and setup  
 ### 4-1  Add "Messenger"  
-![Messenger](./8.png)  
+![Messenger](./imgs/8.png)  
 ### 4-2  connect "Page" to "Messenger" product
 ![connect](./imgs/9.png)  
 ![connect](./imgs/10.png) 
