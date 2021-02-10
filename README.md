@@ -4,7 +4,7 @@
 
 ## Step1. Create a Google Apps Script and Deploy it as WebApps  
 [Code](./Simple_FB_Chat_Bot.gs)  
-![Deploy](./imgs/13.png)  
+<img src=./imgs/13.png width=70%></img>
 
 ## Step2. Go to FB and Create a Fans page  
 ![Create a Fans Page](./imgs/01.png) 
