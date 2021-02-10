@@ -16,7 +16,7 @@ def call_get():
 #this is for renewing the webhook
     data = request.args
     if data["hub.verify_token"] == VERIFY_TOKEN:
-        return data["hub.challenge"];
+        return data["hub.challenge"]
     return ""
 @app.route("/", methods=['POST'])
 def call_post():
@@ -24,10 +24,10 @@ def call_post():
     data = request.get_json()#Ref:https://stackoverflow.com/questions/20001229/how-to-get-posted-json-in-flask
     #app.logger.info("Request data: " + data)
     #print(data["entry"])
-    pageEntry=dict(data["entry"][0]);
+    pageEntry=dict(data["entry"][0])
     event=dict(pageEntry['messaging'][0])
-    userID=event["sender"]['id'];
-    userMessage = event["message"]["text"];
+    userID=event["sender"]['id']
+    userMessage = event["message"]["text"]
     sendMessage(userID,userMessage)
     return "Ok"
 
