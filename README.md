@@ -4,7 +4,7 @@
 
 Step1. Create a Google Apps Script and Deploy it as WebApps  
 [Code](https://github.com/yotrew/FB_Messager_Bot/blob/main/Simple_FB_Chat_Bot.gs)  
-![Deploy](https://github.com/yotrew/FB_Messenger_Bot/tree/main/imgs/13.png)  
+![Deploy](./imgs/13.png)  
 
 Step2. Go to FB and Create a Fans page  
 ![Create a Fans Page](https://github.com/yotrew/FB_Messenger_Bot/tree/main/imgs/1.png)  
