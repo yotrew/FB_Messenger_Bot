@@ -3,7 +3,7 @@
 
 
 ## Step1. Create a Google Apps Script and Deploy it as WebApps  
-Or Using Flask&Requests in Python to create webapps 
+## Or Using Flask&Requests in Python to create webapps  
 (1)[Google Apps Script Code](./Simple_FB_Chat_Bot.gs)  
 (2)[Python Code](./FB_bot_python.py)  
 A.Google Apps Scripts  
